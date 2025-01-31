@@ -1,4 +1,4 @@
-# 👋 About Me
+# 👋
 
 <p align="left">
 <a href="https://linkedin.com/in/your-profile">
@@ -30,66 +30,80 @@
 
 ---
 
-# Recent Projects
+# 🔍
 
----
-
-<details open>
-<summary>📊 Marketing ROI Optimization System</summary>
-
-<div style="font-size: 14px; width: 90%; margin: auto;">
-  
-| **Key Achievements**                                                          | **Tech Stack**                                        | **Progress**       | **Project Link**                                   |
-|------------------------------------------------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------------|
-| - Improved marketing ROI by 30%<br>- Reduced customer acquisition cost by 25%<br>- Automated campaign performance tracking | Python, Pandas, Scikit-learn, PostgreSQL, Tableau   | [██████████] 100%  | [View Project](https://github.com/your-github/marketing-roi) |
-
-</div>
-</details>
-
----
-
-<details open>
-<summary>🤖 Customer Churn Prediction Model</summary>
-
-<div style="font-size: 14px; width: 90%; margin: auto;">
-
-| **Key Achievements**                                                          | **Tech Stack**                                        | **Progress**       | **Project Link**                                   |
-|------------------------------------------------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------------|
-| - Achieved 85% prediction accuracy<br>- Reduced customer churn rate by 20%<br>- Implemented early warning system | TensorFlow, Keras, PostgreSQL, AWS SageMaker        | [██████████] 100%  | [View Project](https://github.com/your-github/churn-prediction) |
-
-</div>
-</details>
-
----
-
-<details open>
-<summary>📈 Demand Forecasting System</summary>
-
-<div style="font-size: 14px; width: 90%; margin: auto;">
-
-| **Key Achievements**                                                          | **Tech Stack**                                        | **Progress**       | **Project Link**                                   |
-|------------------------------------------------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------------|
-| - Achieved 92% forecasting accuracy<br>- Reduced inventory costs by 25%<br>- Implemented real-time adjustment features | Python, Prophet, PySpark, Custom LSTM              | [████████░░] 80%   | [View Project](https://github.com/your-github/demand-forecast) |
-
-</div>
-</details>
-
----
-
-<details open>
-<summary>👥 Customer Segmentation Analysis</summary>
-
-<div style="font-size: 14px; width: 90%; margin: auto;">
-
-| **Key Achievements**                                                          | **Tech Stack**                                        | **Progress**       | **Project Link**                                   |
-|------------------------------------------------------------------------------|------------------------------------------------------|--------------------|----------------------------------------------------|
-| - Identified 5 customer segments<br>- Increased conversion rate by 40%<br>- Developed targeted marketing strategies | Python, Scikit-learn, PowerBI                       | [██████░░░░] 60%   | [View Project](https://github.com/your-github/customer-segmentation) |
-
-</div>
-</details>
-
----
-
+<table style="border-collapse: collapse; width: 100%; font-size: 14px;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 4px;">Project Name</th>
+      <th style="text-align: left; padding: 4px;">Key Achievements</th>
+      <th style="text-align: left; padding: 4px;">Tech Stack + Progress</th>
+      <th style="text-align: left; padding: 4px;">Project Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 4px;">📊 Marketing ROI Optimization System</td>
+      <td style="padding: 4px;">- Improved marketing ROI by 30%<br>- Reduced customer acquisition cost by 25%<br>- Automated performance tracking</td>
+      <td style="padding: 4px;">Python, Pandas, Scikit-learn, PostgreSQL, Tableau (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/marketing-roi">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">🤖 Customer Churn Prediction Model</td>
+      <td style="padding: 4px;">- Achieved 85% prediction accuracy<br>- Reduced customer churn rate by 20%<br>- Implemented early warning system</td>
+      <td style="padding: 4px;">TensorFlow, Keras, PostgreSQL, AWS SageMaker (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/churn-prediction">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">📈 Demand Forecasting System</td>
+      <td style="padding: 4px;">- Achieved 92% forecasting accuracy<br>- Reduced inventory costs by 25%<br>- Implemented real-time adjustments</td>
+      <td style="padding: 4px;">Python, Prophet, PySpark, Custom LSTM (80%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/demand-forecast">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">👥 Customer Segmentation Analysis</td>
+      <td style="padding: 4px;">- Identified 5 customer segments<br>- Increased conversion rate by 40%<br>- Developed targeted marketing strategies</td>
+      <td style="padding: 4px;">Python, Scikit-learn, PowerBI (60%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/customer-segmentation">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">🌍 Global Sales Dashboard</td>
+      <td style="padding: 4px;">- Centralized global sales data<br>- Real-time insights for 5 regions<br>- Improved decision-making efficiency by 20%</td>
+      <td style="padding: 4px;">Tableau, SQL, Python (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/global-sales-dashboard">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">🏦 Financial Fraud Detection System</td>
+      <td style="padding: 4px;">- Detected fraudulent transactions with 95% accuracy<br>- Reduced fraud losses by $1M<br>- Real-time alert system</td>
+      <td style="padding: 4px;">Python, Scikit-learn, AWS Lambda, Kafka (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/financial-fraud-detection">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">🛒 E-commerce Recommendation Engine</td>
+      <td style="padding: 4px;">- Increased click-through rate by 25%<br>- Personalized recommendations<br>- Deployed on production</td>
+      <td style="padding: 4px;">Python, TensorFlow, Flask, AWS EC2 (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/ecommerce-recommendation">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">📅 Employee Scheduling Optimization</td>
+      <td style="padding: 4px;">- Reduced scheduling conflicts by 50%<br>- Optimized workforce allocation<br>- Increased productivity by 15%</td>
+      <td style="padding: 4px;">Python, OR-Tools, PostgreSQL (80%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/employee-scheduling">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">🚀 Social Media Sentiment Analysis</td>
+      <td style="padding: 4px;">- Analyzed 1M+ tweets<br>- Identified top 3 sentiment trends<br>- Delivered actionable insights for campaigns</td>
+      <td style="padding: 4px;">Python, NLTK, Tweepy, Tableau (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/social-media-sentiment">View Project</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;">📂 Document Classification System</td>
+      <td style="padding: 4px;">- Classified 500K+ documents<br>- Reduced manual sorting time by 70%<br>- Achieved 93% accuracy</td>
+      <td style="padding: 4px;">Python, SpaCy, FastText, AWS S3 (100%)</td>
+      <td style="padding: 4px;"><a href="https://github.com/your-github/document-classification">View Project</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
