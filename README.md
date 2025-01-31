@@ -20,13 +20,13 @@
 
 <img align="right" alt="GIF" width="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-- 🎓 **Business Strategy & Data Analyst**
+
 - 🎓 **The Hong Kong Polytechnic University** BSc Hons
-- 💻 Specialized in **Business Intelligence** and **Strategic Analysis**
-- 🌱 Currently learning **Advanced ML Models** and **Quant Trading**
-- 🤔 Interested in **Data Engineering** and **MLOps**
-- 💼 Open to collaborating on **Data Science Projects**
-- 💬 Ask me about **Data Analytics**, **Python**, and **Business Strategy**
+- 💼 Specialized in **Business Strategy** and **Data Analyst**
+- 🌱 Currently Learning **Advanced ML Models** and **Quant Trading**
+- 🤔 Interested in **Data Science** and **Quant Trading**
+- 💚 Open to Collaborating on **Data Science Projects**
+- 💬 Feel Free to Reach Out for Insights on **Data Analytics**, **Python**, and **Strategic Business Planning**
 
 
 # *🛠️ Tech Stack*  
