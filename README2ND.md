@@ -15,6 +15,9 @@
 </a>
 </p>
 
+<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+
 <br />
 <br />
 
@@ -26,7 +29,6 @@
 - 💼 Open to collaborating on **Data Science Projects**
 - 💬 Ask me about **Data Analytics**, **Python**, and **Business Strategy**
 
-<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ---
 
@@ -104,6 +106,10 @@
     </tr>
   </tbody>
 </table>
+
+
+
+
 
 ---
 
