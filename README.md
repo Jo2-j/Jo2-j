@@ -18,28 +18,13 @@
 <br />
 <br />
 
-🎯 **Position**
-- Business Strategy & Data Analyst
-🎓 **Education**
-- Hong Kong Polytechnic University
-💡 **Core Skills**
-- Business Intelligence
-- Strategic Analysis
-- Data Analytics
-- Python
-🔍 **Expertise**
-- Data Science
-- Business Strategy
-- BI Tools
-📚 **Learning**
-- Advanced ML Models
-- Cloud Architecture
-🌱 **Interests**
-- Data Engineering
-- MLOps
-🤝 **Open to**
-- Data Science Projects
-- Analytics Collaboration
+- 🎓 **Business Strategy & Data Analyst**
+- 🎓 The Hong Kong Polytechnic University UndGrad
+- 💻 Specialized in **Business Intelligence** and **Strategic Analysis**
+- 🌱 Currently learning **Advanced ML Models** and **Cloud Architecture**
+- 🤔 Interested in **Data Engineering** and **MLOps**
+- 💼 Open to collaborating on **Data Science Projects**
+- 💬 Ask me about **Data Analytics**, **Python**, and **Business Strategy**
 
 
 <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
