@@ -18,38 +18,25 @@
 <br />
 <br />
 
-- 🎓 I am a **Data Analyst** with 5+ years of experience
-- 💻 Specialized in **Business Intelligence** and **Strategic Analysis**
-- 🌱 Currently learning **Advanced ML Models** and **Cloud Architecture**
-- 🤔 Interested in **Data Engineering** and **MLOps**
-- 💼 Open to collaborating on **Data Science Projects**
-- 💬 Ask me about **Data Analytics**, **Python**, and **Business Strategy**
-
-- 🎯 **Position**
-- Business Strategy & Data Analyst (5+ YOE)
-
+🎯 **Position**
+- Business Strategy & Data Analyst
 🎓 **Education**
 - Hong Kong Polytechnic University
-
 💡 **Core Skills**
 - Business Intelligence
 - Strategic Analysis
 - Data Analytics
 - Python
-
 🔍 **Expertise**
 - Data Science
 - Business Strategy
 - BI Tools
-
 📚 **Learning**
 - Advanced ML Models
 - Cloud Architecture
-
 🌱 **Interests**
 - Data Engineering
 - MLOps
-
 🤝 **Open to**
 - Data Science Projects
 - Analytics Collaboration
