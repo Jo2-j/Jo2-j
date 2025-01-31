@@ -1,4 +1,4 @@
-# 👋
+#  *👋 Bio* 
 
 <p align="left">
 <a href="https://linkedin.com/in/your-profile">
@@ -28,9 +28,25 @@
 - 💼 Open to collaborating on **Data Science Projects**
 - 💬 Ask me about **Data Analytics**, **Python**, and **Business Strategy**
 
+
+# *🛠️ Tech Stack*  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/r.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/powerbi.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googlecloud.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apachekafka.svg"></code>
+
 ---
 
-# 🔍 **Project**
+# *🔍 Project*
 
 <table>
   <tr>
@@ -74,28 +90,3 @@
     </td>
   </tr>
 </table>
-
----
-
-# **Tech Stack:**  
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/r.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postgresql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/powerbi.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-
----
-
-**Currently Learning:**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googlecloud.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apachekafka.svg"></code>
-
----
-
