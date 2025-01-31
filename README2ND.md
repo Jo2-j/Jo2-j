@@ -30,7 +30,7 @@
 
 ---
 
-# Project List
+# Recent Projects
 
 ---
 
