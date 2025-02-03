@@ -31,25 +31,24 @@
 
 # *🛠️ Tech Stack*  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" style="filter: invert(1);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/powerbi.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googlecloud.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apachekafka.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftword.svg" style="filter: invert(1);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftpowerpoint.svg" style="filter: invert(1);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftexcel.svg" style="filter: invert(1);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pytorch.svg" style="filter: brightness(0) saturate(100%);"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="filter: brightness(0) saturate(100%);"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="filter: brightness(0) saturate(100%);"></code>
-<code><img height="20" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" style="filter: brightness(0) saturate(100%);"></code>
-
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" style="filter: invert(33%) sepia(74%) saturate(803%) hue-rotate(194deg) brightness(92%) contrast(98%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" style="filter: invert(23%) sepia(94%) saturate(1957%) hue-rotate(195deg) brightness(94%) contrast(101%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" style="filter: invert(42%) sepia(43%) saturate(682%) hue-rotate(77deg) brightness(95%) contrast(95%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg" style="filter: invert(35%) sepia(64%) saturate(4173%) hue-rotate(159deg) brightness(96%) contrast(101%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/powerbi.svg" style="filter: invert(36%) sepia(56%) saturate(2462%) hue-rotate(321deg) brightness(95%) contrast(88%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg" style="filter: invert(38%) sepia(54%) saturate(1552%) hue-rotate(1deg) brightness(96%) contrast(98%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg" style="filter: invert(36%) sepia(63%) saturate(2535%) hue-rotate(343deg) brightness(98%) contrast(87%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg" style="filter: invert(50%) sepia(81%) saturate(3184%) hue-rotate(340deg) brightness(92%) contrast(93%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg" style="filter: invert(50%) sepia(98%) saturate(3207%) hue-rotate(338deg) brightness(97%) contrast(95%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googlecloud.svg" style="filter: invert(29%) sepia(94%) saturate(2237%) hue-rotate(208deg) brightness(95%) contrast(89%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apachekafka.svg" style="filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftword.svg" style="filter: invert(31%) sepia(57%) saturate(2595%) hue-rotate(206deg) brightness(86%) contrast(101%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftpowerpoint.svg" style="filter: invert(29%) sepia(79%) saturate(1741%) hue-rotate(345deg) brightness(89%) contrast(88%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftexcel.svg" style="filter: invert(35%) sepia(95%) saturate(1421%) hue-rotate(95deg) brightness(96%) contrast(105%);"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pytorch.svg" style="filter: invert(50%) sepia(46%) saturate(3867%) hue-rotate(332deg) brightness(97%) contrast(94%);"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
+<code><img height="20" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 
 
 
