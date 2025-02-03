@@ -1,19 +1,7 @@
 #  *👋 Bio* 
 
-<p align="left">
-<a href="https://linkedin.com/in/your-profile">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/your-github">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
-</a>
-<a href="mailto:your.email@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-<a href="https://tableau.com/your-profile">
-  <img align="left" alt="Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg" />
-</a>
-</p>
+<p align="left"><a href="https://linkedin.com/in/your-profile"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a><a href="https://github.com/your-github"><img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a><a href="mailto:your.email@gmail.com"><img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a><a href="https://tableau.com/your-profile"><img align="left" alt="Tableau" width="22px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></a></p>
+
 
 <br />
 <br />
@@ -30,27 +18,7 @@
 
 
 # *🛠️ Tech Stack*  
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" style="filter: invert(33%) sepia(74%) saturate(803%) hue-rotate(194deg) brightness(92%) contrast(98%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg" style="filter: invert(23%) sepia(94%) saturate(1957%) hue-rotate(195deg) brightness(94%) contrast(101%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" style="filter: invert(42%) sepia(43%) saturate(682%) hue-rotate(77deg) brightness(95%) contrast(95%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg" style="filter: invert(35%) sepia(64%) saturate(4173%) hue-rotate(159deg) brightness(96%) contrast(101%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/powerbi.svg" style="filter: invert(36%) sepia(56%) saturate(2462%) hue-rotate(321deg) brightness(95%) contrast(88%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg" style="filter: invert(38%) sepia(54%) saturate(1552%) hue-rotate(1deg) brightness(96%) contrast(98%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg" style="filter: invert(36%) sepia(63%) saturate(2535%) hue-rotate(343deg) brightness(98%) contrast(87%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg" style="filter: invert(50%) sepia(81%) saturate(3184%) hue-rotate(340deg) brightness(92%) contrast(93%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/amazonaws.svg" style="filter: invert(50%) sepia(98%) saturate(3207%) hue-rotate(338deg) brightness(97%) contrast(95%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/googlecloud.svg" style="filter: invert(29%) sepia(94%) saturate(2237%) hue-rotate(208deg) brightness(95%) contrast(89%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/apachekafka.svg" style="filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftword.svg" style="filter: invert(31%) sepia(57%) saturate(2595%) hue-rotate(206deg) brightness(86%) contrast(101%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftpowerpoint.svg" style="filter: invert(29%) sepia(79%) saturate(1741%) hue-rotate(345deg) brightness(89%) contrast(88%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/microsoftexcel.svg" style="filter: invert(35%) sepia(95%) saturate(1421%) hue-rotate(95deg) brightness(96%) contrast(105%);"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pytorch.svg" style="filter: invert(50%) sepia(46%) saturate(3867%) hue-rotate(332deg) brightness(97%) contrast(94%);"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></code>
-<code><img height="20" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code><code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code><code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019–present%29.svg"></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg"></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg"></code><code><img height="20" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code><code><img height="20" src="https://matplotlib.org/stable/_static/logo2.svg"></code><code><img height="20" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code><code><img height="20" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"></code>
 
 
 
